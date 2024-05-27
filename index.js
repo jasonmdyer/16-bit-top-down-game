@@ -80,7 +80,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['...', 'Fuck off faggot!']
+          dialogue: ['Fuck off faggot!']
         })
       )
     }
