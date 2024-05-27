@@ -80,7 +80,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 3,
           animate: true,
-          dialogue: ['Fuck off faggot!']
+          dialogue: ['...','Hey mister, have you seen my Dogochu?']
         })
       )
     }
@@ -98,7 +98,7 @@ charactersMap.forEach((row, i) => {
             hold: 60
           },
           scale: 3,
-          dialogue: ['Hands on your knees, hands on your knees! Shake that ass for Drake, now shake that ass for me!']
+          dialogue: ['My bones hurt.']
         })
       )
     }
